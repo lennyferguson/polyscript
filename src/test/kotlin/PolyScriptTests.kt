@@ -7,7 +7,7 @@ import scripting.Lua
 import scripting.Ruby
 
 @RunWith(JUnit4::class)
-class ScriptingEngineTests {
+class PolyScriptTests {
 
     @Test
     fun `Test Python Script Engine`() {
